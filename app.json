@@ -33,7 +33,7 @@
       "required": false
     },
     "BOT_NAME": {
-      "description": "put A name for your bot",
+      "description": "SCOT RICH",
       "value": "Zokou-MD",
       "required": false
     },
@@ -44,7 +44,7 @@
     },
     "PUBLIC_MODE": {
       "description": "type yes to put your bot on public mode or no to put it on private mod",
-      "value": "yes",
+      "value": "no",
       "required": false
     },
     "HEROKU_APY_KEY": {
@@ -56,19 +56,19 @@
       "required": false
     },
     "SESSION_ID": {
-      "description": "put your session ID , the code you receive after scanning Qr code",
+      "description": "Zokou-MD-WHATSAPP-BOT;;;=>eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiZ0l3UVo0eDMyeG9wdlVxemVMZG1wZEpxYmtHR3J6VlltbnRuTXM4aGJuZz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiaEJ3MDh6LzFqYk5NSzc3OVVUYXA5SGMvODh5M3Bia1g2bnp3aHNQZkdBVT0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJHT1RrU2thOFdsSzJ4T2QrUkRrYnBNRFBOSkRzM3h0Z2doeHcxb1ROakZZPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJFUEZtNjZmODV4QU9LcTFlM0RncHFEaUJCSTdNZ2tHMG5XNlA1RW5FekI4PSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Ik9IbFZKSGZYU3NxOTNKWUc1TExjaUw2a1FNRStHSmt5bE1GbGgvU0tTRzA9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImpTcnhUMHBDWjlVNldueXNFdkFRL3B6a3JHeWJlZHc4OGRNMjlDYm4wSDA9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiS0N3aE1WQTZ5Rm03NGQzZFo3d1JLbFFtbTZXTksvMVJmbWNvc1pObVFFRT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiSUxuTStFanc2eVpyK3h5Rkh1QTRaMHVmenArV053aVIrS1NlU0ZkSlRuOD0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Ik05MkNjWmk1cXFNU0NhTHlUd2o2dTcyOFV6c1RBZ0ZPL2tnV2M2czhQV0c3N253RHp2Z3ZXd0VDUHBnWHRvLzM4Vnk2RmJFcWNkN1B2cnJsZkNTZkR3PT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6NTcsImFkdlNlY3JldEtleSI6IkN5K0lvREU3WFNKYlBlL2xWV0dSaDErMjcwc1M1UEVsUWlHTTZBa1lnTHM9IiwicHJvY2Vzc2VkSGlzdG9yeU1lc3NhZ2VzIjpbXSwibmV4dFByZUtleUlkIjozMSwiZmlyc3RVbnVwbG9hZGVkUHJlS2V5SWQiOjMxLCJhY2NvdW50U3luY0NvdW50ZXIiOjAsImFjY291bnRTZXR0aW5ncyI6eyJ1bmFyY2hpdmVDaGF0cyI6ZmFsc2V9LCJkZXZpY2VJZCI6Im1zUDNEeFhhUXBPQmtiOTdHUmdqZWciLCJwaG9uZUlkIjoiYTcwNGU5OWUtMmU0Ni00YmNjLWIwZDYtODdlNGY5NzgzM2VjIiwiaWRlbnRpdHlJZCI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjNpTkpHMmk1M2k5RkFkVTk4VXNPdlYwWVNSbz0ifSwicmVnaXN0ZXJlZCI6ZmFsc2UsImJhY2t1cFRva2VuIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiMlcvMHQzb0ZBc2JvY3VvZVRrb21Uc21yY0RZPSJ9LCJyZWdpc3RyYXRpb24iOnt9LCJhY2NvdW50Ijp7ImRldGFpbHMiOiJDTWI4bDVjSEVKR2x1TFlHR0FFZ0FDZ0EiLCJhY2NvdW50U2lnbmF0dXJlS2V5IjoiRGUxMHFRamI3bDdZRE1jNE1BY1QvUi9UOUpLc2dLNTAzZTBIN0VMcS9Gaz0iLCJhY2NvdW50U2lnbmF0dXJlIjoiWUlhd1FzRkd3dG43MHVCeWcxSXdPN0dlQlVWcVc3UmEwd0N1d0xoVC9iZWhQVWdMK3ZCVGxmYXBaVjQ2eFRuZWRsYjU0Y3loZHNzKzlRSEsyZERFQlE9PSIsImRldmljZVNpZ25hdHVyZSI6Ii9EQzFpcFJkRWJtTHYrd2Zrb1p1VnhySnNPY1hNRkNLWEZhVWRITFFmaEhUL1RmdjduQzJ1elhjSXExNVRMblNTSDZKS0RPNEJ2Y0MzSTVUZUsrUENnPT0ifSwibWUiOnsiaWQiOiIyMzc2NTc4MzI2Nzk6MkBzLndoYXRzYXBwLm5ldCIsImxpZCI6IjI0ODM2OTg3MjE0MjM2MDoyQGxpZCJ9LCJzaWduYWxJZGVudGl0aWVzIjpbeyJpZGVudGlmaWVyIjp7Im5hbWUiOiIyMzc2NTc4MzI2Nzk6MkBzLndoYXRzYXBwLm5ldCIsImRldmljZUlkIjowfSwiaWRlbnRpZmllcktleSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkJRM3RkS2tJMis1ZTJBekhPREFIRS8wZjAvU1NySUN1ZE4zdEIreEM2dnhaIn19XSwicGxhdGZvcm0iOiJhbmRyb2lkIiwicm91dGluZ0luZm8iOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJDQVVJQ0E9PSJ9LCJsYXN0QWNjb3VudFN5bmNUaW1lc3RhbXAiOjE3MjQ3ODEyMDUsImxhc3RQcm9wSGFzaCI6IjRDcTRFayJ9",
       "value": "",
       "required": true
     },
     "OWNER_NAME": {
-      "desc": "Your Name",
+      "desc": "SCOT",
       "required": false,
       "value": "Djalega++"
     },
     "NUMERO_OWNER": {
-      "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
+      "desc": "657832679‬",
       "required": false,
-      "value": "22891733300"
+      "value": "698783976"
     },
     "WARN_COUNT": {
       "desc": "this is the limit of warn for warning commandes",
